@@ -1,0 +1,7 @@
+.bg{
+    background-image: url('/src/pages/image/todo-bg.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+}
